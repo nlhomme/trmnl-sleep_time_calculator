@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Secrets / credentials
+.env
+.env.*
+.env.local
+.env.production
+*.pem
+*.key
+*.secret
+*.p12
+*.pfx
+*.crt
+*.cert
+*.keystore
+credentials.json
+secrets.json
+service-account*.json
+*.token
+
+# Node
+node_modules/
+
+# Wrangler
+.wrangler/
+.dev.vars
