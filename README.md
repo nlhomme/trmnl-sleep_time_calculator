@@ -37,3 +37,7 @@ This starts a local server at `http://localhost:8787`.
 ```sh
 npx wrangler deploy
 ```
+
+## License
+
+[MIT](LICENSE)
