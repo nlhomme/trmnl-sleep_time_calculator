@@ -2,6 +2,8 @@
 
 A lightweight Cloudflare Worker that converts minutes (from 00:00) into a time of day.
 
+**Live demo:** https://sleep-time-calculator.goulash-rafts-06.workers.dev
+
 ## Usage
 
 ### curl / API
